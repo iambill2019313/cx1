@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>平安银行信用卡卡片精选</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="x-dns-prefetch-control" content="on">
+    <link rel="dns-prefetch" href="//bank-static.pingan.com.cn">
+    <meta name="renderer" content="webkit">
+    <meta content="telephone=no,email=no" name="format-detection">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta content="telephone=no" name="format-detection">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0">
+    <meta name="W_design" content="750">
+    <meta name="keywords" content="平安银行信用卡，信用卡申请，信用卡办理">
+    <meta name="description" content="平安银行为您精选平安标准卡、车主卡、由你卡、消除联萌卡、腾讯爱奇艺联名卡等多款卡片，总有一款适合你！">
+    <meta name="WT.pa_cmid" content="">
+    <meta name="WT.pagetitle" content="卡片精选">
+    <meta name="WT.pageID" content="XYK_LP008">
+    <script>!function(e,h){function b(){var u=d.getBoundingClientRect().width;u/a>750&&(u=750*a);var v=u/7.5;d.style.fontSize=v+"px",f.rem=e.rem=v}var n,t=e.document,d=t.documentElement,l=t.querySelector('meta[name="viewport"]'),o=t.querySelector('meta[name="flexible"]'),a=0,s=0,f=h.flexible||(h.flexible={});if(l){console.warn("将根据已有的meta标签来设置缩放比例");var g=l.getAttribute("content").match(/initial\-scale=([\d\.]+)/);g&&(s=parseFloat(g[1]),a=parseInt(1/s))}else{if(o){var k=o.getAttribute("content");if(k){var p=k.match(/initial\-dpr=([\d\.]+)/),c=k.match(/maximum\-dpr=([\d\.]+)/);p&&(a=parseFloat(p[1]),s=parseFloat((1/a).toFixed(2))),c&&(a=parseFloat(c[1]),s=parseFloat((1/a).toFixed(2)))}}}if(!a&&!s){var r=e.navigator.userAgent,j=(!!r.match(/android/gi),!!r.match(/iphone/gi)),q=j&&!!r.match(/OS 9_3/),m=e.devicePixelRatio;a=j&&!q?m>=3&&(!a||a>=3)?3:m>=2&&(!a||a>=2)?2:1:1,s=1/a}if(d.setAttribute("data-dpr",a),!l){if(l=t.createElement("meta"),l.setAttribute("name","viewport"),l.setAttribute("content","initial-scale="+s+", maximum-scale="+s+", minimum-scale="+s+", user-scalable=no"),d.firstElementChild){d.firstElementChild.appendChild(l)}else{var i=t.createElement("div");i.appendChild(l),t.write(i.innerHTML)}}e.addEventListener("resize",function(){clearTimeout(n),n=setTimeout(b,300)},!1),e.addEventListener("pageshow",function(u){u.persisted&&(clearTimeout(n),n=setTimeout(b,300))},!1),"complete"===t.readyState?t.body.style.fontSize=12*a+"px":t.addEventListener("DOMContentLoaded",function(){t.body.style.fontSize=12*a+"px"},!1),b(),f.dpr=e.dpr=a,f.refreshRem=b,f.rem2px=function(v){var u=parseFloat(v)*this.rem;return"string"==typeof v&&v.match(/rem$/)&&(u+="px"),u},f.px2rem=function(v){var u=parseFloat(v)/this.rem;return"string"==typeof v&&v.match(/px$/)&&(u+="rem"),u}}(window,(window.lib||(window.lib={})));
+    </script>
+    <link rel="stylesheet" href="libs/swiper.min.css">
+    <link rel="stylesheet" href="css/indexA.css?a=20190903">
+</head>
+<body>
+     <div>
+        <img  style="width: 100%;height: auto;" src=https://www.9dai.org/uploads/allimg/190318/1552883504_2443bSPj.gif?wx_fmt=gif>
+    </div>
+<div class="body-wrapper">
+    <div class="top-long">
+        <div class="top top-other">
+            <!-- 气泡效果 -->
+            <div class="shine" id="shine"><span class=""></span></div>
+            <!-- /气泡效果 -->
+            <div class="caixukun">
+                <div class="kun-item flex flex-sb">
+                    <div class="kun-icon">免年费</div>
+                    <div class="kun-href flex" onclick="jumpMiddle(bzkjump())">
+                        <div class="kun-pic">
+                            <img src="images/newcard1_20190806.png" alt="">
+                        </div>
+                        <div class="kun-card">
+                            <p class="h2">平安标准卡</p>
+                            <p class="h3">经典才是永恒</p>
+                        </div>
+                    </div>
+                    <div class="kun-btn flex">
+                        <div class="go-btn" onclick="getUrl({ccp:'1'})" otype="button" otitle="人气卡片-标准卡申请">申请</div>
+                        <p class="h2">254.3万人申请</p>
+                    </div>
+                </div>
+                <div class="kun-item kun-item2 flex flex-sb">
+                    <div class="kun-href flex" onclick="jumpMiddle(czkjump())">
+                        <div class="kun-pic">
+                            <img src="images/czk_head20190918.png" alt="">
+                        </div>
+                        <div class="kun-card">
+                            <p class="h2">平安车主卡</p>
+                            <p class="h3">尊享加油88折</p>
+                        </div>
+                    </div>
+                    <div class="kun-btn flex">
+                        <div class="go-btn" onclick="getUrl({ccp:'3'})" otype="button" otitle="人气卡片-车主卡申请">申请</div>
+                        <p class="h2">501.5万人申请</p>
+                    </div>
+                </div>
+                <div class="kun-item kun-item4 flex flex-sb">
+                    <div class="kun-icon">免年费</div>
+                    <div class="kun-href flex" onclick="hrefurl('https://b.pingan.com.cn/kuaizhan/page/ccapply/wx/20190724/h9619.html?scc=940000252&mt=94252001JXY&outerid=testA')">
+                        <div class="kun-pic">
+                            <img src="images/newcard5.png" alt="视频主题信用卡卡面">
+                        </div>
+                        <div class="kun-card">
+                            <p class="h2">视频主题信用卡</p>
+                            <p class="h3">四大视频会员自由选</p>
+                        </div>
+                    </div>
+                    <div class="kun-btn flex">
+                        <div class="go-btn" onclick="getUrl({ccp:'9', cardCatenaNo: '18', cf:'01'})" otype="button" otitle="人气卡片-视频主题信用卡申请">申请</div>
+                        <p class="h2">新卡上市</p>
+                    </div>
+                </div>
+                <div class="kun-item kun-item3 flex flex-sb">
+                    <div class="kun-icon2"></div>
+                    <div class="kun-href flex" onclick="jumpMiddle(costcojk())" otype="button" otitle="人气卡片卡面-平安Costco金卡">
+                        <div class="kun-pic">
+                            <img src="images/cotscojk_h_20190902.png" alt="">
+                        </div>
+                        <div class="kun-card">
+                            <p class="h2">平安Costco金卡</p>
+                            <p class="h3">秒成Costco会员</p>
+                        </div>
+                    </div>
+                    <div class="kun-btn flex">
+                        <div class="go-btn" onclick="getUrl({ccp:'CO03'})" otype="button" otitle="人气卡片-平安Costco金卡">申请</div>
+                        <p class="h2">新卡上市</p>
+                    </div>
+                </div>
+                <!-- 腾讯视频卡去掉 -->
+                <!-- <div class="kun-item kun-item4 flex flex-sb">
+                    <div class="kun-icon">免年费</div>
+                    <div class="kun-href flex" onclick="jumpMiddle(txjump())">
+                        <div class="kun-pic">
+                            <img src="images/newcard3.png" alt="">
+                        </div>
+                        <div class="kun-card">
+                            <p class="h2">平安腾讯视频金卡</p>
+                            <p class="h3">送60个月腾讯视频会员</p>
+                        </div>
+                    </div>
+                    <div class="kun-btn flex">
+                        <div class="go-btn" onclick="getUrl({ccp:'tcg2'})" otype="button" otitle="人气卡片-腾讯视频金卡卡面">申请</div>
+                        <p class="h2">273.2万人申请</p>
+                    </div>
+                </div> -->
+            </div>
+            <div class="see-more flex flex-vc flex-jc"  otitle="全部卡片" onclick="jumpMiddle('https://b.pingan.com.cn/creditcard/huodong/paxykqjf/index.shtml')">
+                <p class="h2">查看全部卡片</p>
+                <em><img src="images/right2.png" alt=""></em>
+            </div>
+
+        </div>
+    </div>
+
+
+<!--     <div class="btns-box btns-box-other">
+        <ul class="btns flex">
+            <li class="icon1">
+                <a class="ban-link" href="javascript:hrefurl('https://bank-static.pingan.com.cn/ca/ccBooking/ccBookingHtml/query/index.html')" otitle="办卡进度">
+                    <div class="icon icon1"></div>
+                    <span>办卡进度</span>
+                </a>
+            </li>
+            <li>
+                <a class="ban-link" otitle="推荐办卡" href="javascript:jumptui();">
+                    <img src="https://cdn.sdb.com.cn/creditcard/huodong/wxzxbkaqy4/images/gift201964.gif" class="icon icon5">
+                    <span>送100元</span>
+                </a>
+            </li>
+          
+            <li>
+                <a class="ban-link" onclick="hrefurl('https://bank-static.pingan.com.cn/ca/ccssa/Lkpg/html/1859b19a58094f2585a9dd6dee203fdc.html?linkId=1859b19a58094f2585a9dd6dee203fdc&source=xykwx&outerSource=fushuka-201908&channel_source=02')" otitle="办附属卡">
+                    <div class="icon icon6"></div>
+                    <span>办附属卡</span>
+                </a>
+            </li>
+            <li>
+                <a class="ban-link" href="https://bank-static.pingan.com.cn/ca/ccBooking/videoActiveHtml/creditcard/activeCard/activeCard.html" otitle="激活卡片">
+                    <div class="icon icon4"></div>
+                    <span>激活卡片</span>
+                </a>
+            </li>
+        </ul>
+    </div> -->
+    <!--
+    <div style="display: flex;justify-content: center;width: 100%;background-color: #F89944;border-radius: 5px;height: 50px;">
+        <div style="border-radius: 10px;color:black;">信用卡额度申请</div>
+    </div>
+   
+    <div class="hot bdr-t" onclick="jump3()" otitle="325元新人礼">
+        <div class="hot-icn"></div>
+        <span class="hot-desc">796元新人礼免费送 更享0元壕礼随新购</span>
+    </div> -->
+
+    
+    <div class="swiper-container-box1">
+        <div class="swiper-container2 swiper-none">
+            <div class="swiper-wrapper">
+                <a class="lazy-a swiper-slide" href="javascript:ptbanner();" otype="button" otitle="拼团banner">
+                    <div class="tab-title5">
+                    </div>
+                </a>
+                <a class="lazy-a swiper-slide" href="javascript:jump3();" otype="button" otitle="新户9元购">
+                    <div class="tab-title4">
+                    </div>
+                </a>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+        <div class="swiper-container3 swiper-none">
+            <div class="swiper-wrapper">
+                <a class="lazy-a swiper-slide" href="javascript:ptbanner();" otype="button" otitle="拼团banner">
+                    <div class="tab-title5">
+                    </div>
+                </a>
+                <a class="lazy-a swiper-slide" href="javascript:jump4();" otype="button" otitle="新户9元购">
+                    <div class="tab-title4">
+                    </div>
+                </a>
+            </div>
+            <div class="swiper-pagination"></div>
+        </div>
+    </div>
+    <div class="box">
+        <div class="item-head-box">
+            颜值榜
+            <a class="see-bang" href="javascript:yzkjump();" otype="button" otitle="颜值榜-查看榜单">查看榜单</a>
+        </div>
+        <div class="card-one left-one">
+            <a href="javascript:jumpMiddle(paynkjump());">
+                <i class="tag"></i>
+                <div class="words" otitle="颜值榜-由你卡文字">
+                    <h3>平安由你卡</h3>
+                    <p>50多款卡面随心选</p>
+                    <div class="dou">
+                        <div class="douhao"></div>
+                        颜值爆表
+                    </div>
+                </div>
+                <div class="bot-box">
+                    <img src="https://cdn.sdb.com.cn/creditcard/huodong/wxzxbkaqy4/images/card29.jpg?v=2019.6.12" class="incard" otitle="颜值榜-由你卡卡面">
+                </div>
+            </a>
+        </div>
+        <div class="card-one right-one">
+            <a href="javascript:jumpMiddle(czkjump())">
+                <i class="tag1"></i>
+                <div class="words" otitle="颜值榜-车主卡文字">
+                    <h3>平安车主卡</h3>
+                    <p>尊享加油88折</p>
+                    <div class="dou">
+                        <div class="douhao"></div>
+                        偶像实力派
+                    </div>
+                </div>
+                <div class="bot-box">
+                    <img src="images/czkylk_20190918.png?v=1" class="incard" otitle="颜值榜-车主卡卡面">
+                </div>
+            </a>
+        </div>
+        <div class="card-one right-one">
+            <a href="javascript:jumpMiddle(xclmkjump())">
+                <i class="tag2"></i>
+                <div class="words" otitle="颜值榜-消除联萌卡文字">
+                    <h3>消除联萌信用卡</h3>
+                    <p>治愈卡面更有美食5折</p>
+                    <div class="dou">
+                        <div class="douhao"></div>
+                        免年费
+                    </div>
+                </div>
+                <div class="bot-box">
+                    <img src="https://cdn.sdb.com.cn/creditcard/huodong/wxzxbkaqy4/images/lmk2.gif?v=2019.6.12" class="incard" otitle="颜值榜-消除联萌卡卡面">
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="box">
+        <div class="item-head-box">
+            高端榜
+            <a class="see-bang" href="javascript:gdkjump();" otitle="高端榜-查看榜单">查看榜单</a>
+        </div>
+        <div class="card-one left-one">
+            <a href="javascript:jumpMiddle(jybjkjump())">
+                <i class="tag"></i>
+                <div class="words" otitle="高端榜-精英白金卡文字">
+                    <h3>平安精英白金卡</h3>
+                    <p>航延赔付¥800</p>
+                    <div class="dou">
+                        <div class="douhao"></div>
+                        白领都爱
+                    </div>
+                </div>
+                <div class="bot-box">
+                    <img src="https://cdn.sdb.com.cn/creditcard/huodong/wxzxbkaqy4/images/jybjsb.png?v=1?v=1" class="incard incard1" otitle="高端榜-精英白金卡卡面">
+                </div>
+            </a>
+        </div>
+        <div class="card-one right-one">
+            <a href="javascript:jumpMiddle(costcobjk())">
+                <i class="tag1"></i>
+                <div class="words" otitle="高端榜-平安Costco白金卡文字">
+                    <h3>平安Costco白金卡</h3>
+                    <p>尊享每月1%返现</p>
+                    <div class="dou">
+                        <div class="douhao"></div>
+                        专属优惠
+                    </div>
+                </div>
+                <div class="bot-box">
+                    <img src="images/cotscobjk_20190902.png" class="incard" otitle="高端榜-平安Costco白金卡卡面">
+                </div>
+            </a>
+        </div>
+        <div class="card-one right-one">
+            <a href="javascript:jumpMiddle(czbjkjump())">
+                <i class="tag2"></i>
+                <div class="words" otitle="高端榜-车主白金卡文字">
+                    <h3>平安车主白金卡</h3>
+                    <p>尊享加油88折</p>
+                    <div class="dou">
+                        <div class="douhao"></div>
+                        出行优选
+                    </div>
+                </div>
+                <div class="bot-box">
+                    <img src="https://cdn.sdb.com.cn/creditcard/huodong/wxzxbkaqy4/images/card16.jpg?v=1" class="incard" otitle="高端榜-车主白金卡卡面">
+                </div>
+            </a>
+        </div>
+    </div>
+    <div class="gift-box">
+        <div class="gift">
+            <div class="ban-head">
+                <span class="tit">办卡有礼</span>
+                <a class="all-card" otitle="办卡有礼-全部卡片" otype="button" href="javascript:jumpMiddle('https://b.pingan.com.cn/creditcard/huodong/paxykqjf/index.shtml')">全部卡片</a>
+            </div>
+            <ul>
+                <li>
+                    <div class="l-card l-card3">
+                        <a class="card-link card-link1"  onclick="jumpMiddle(costcojk())">
+                            <img class="verti imgfst verti2" src="images/cotscojk_20190902.png" otitle="办卡有礼-平安Costco金卡卡面">
+                        </a>
+                    </div>
+                    <a  onclick="jumpMiddle(costcojk())">
+                        <div class="r-txt" otitle="办卡有礼-平安Costco金卡文字">
+                            <h3>平安Costco金卡</h3>
+                            <p>
+                                <span>限时会费减免</span>
+                                &#124;
+                                <span>每月1%返现</span>
+                                &#124;
+                                <span>免年费</span>
+                            </p>
+                        </div>
+                    </a>
+                    <div class="bot-sq">
+                        <a class="bigger" onclick="jumpMiddle(costcojk())">
+                            <div class="bkyl-icon bkyl-icon03" otitle="办卡有礼-平安Costco金卡小图标"></div>
+                            <span>全球Costco会员服务</span>
+                        </a>
+                        <a class="sq-btn" href="javascript:getUrl({ccp:'CO03'})" otype="button" otitle="办卡有礼-平安Costco金卡申请">申请</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="l-card l-card3">
+                        <a class="card-link card-link1" href="javascript:bkylLink1()">
+                            <img class="verti imgfst verti2" src="images/spztk_20190723.png" otitle="办卡有礼-视频主题信用卡卡面">
+                        </a>
+                    </div>
+                    <a href="javascript:bkylLink1()">
+                        <div class="r-txt" otitle="办卡有礼-视频主题信用卡文字">
+                            <h3>视频主题信用卡</h3>
+                            <p>
+                                <span>全年视频会员</span>
+                                &#124;
+                                <span>四大视频自选</span>
+                                &#124;
+                                <span>免年费</span>
+                            </p>
+                        </div>
+                    </a>
+                    <div class="bot-sq">
+                        <a class="bigger" href="javascript:bkylLink1()">
+                            <div class="bkyl-icon bkyl-icon01" otitle="办卡有礼-视频主题信用卡小图标"></div>
+                            <span>新户四大视频会员任选</span>
+                        </a>
+                        <a class="sq-btn" href="javascript:getUrl({ccp:'9', cardCatenaNo: '18', cf:'01'})" otype="button" otitle="办卡有礼-视频主题信用卡申请">申请</a>
+                    </div>
+                </li>
+                <li class="bdr-t">
+                    <div class="l-card l-card3">
+                        <a class="card-link card-link1" onclick="hrefurl('https://b.pingan.com.cn/kuaizhan/page/ccapply/wx/20190802/h10376.html?scc=940000253&mt=94253001JXY')">
+                            <img class="imgfst imgfst1" src="images/loves2_20190812.gif" otitle="办卡有礼-平安情侣信用卡卡面">
+                        </a>
+                    </div>
+                    <a onclick="hrefurl('https://b.pingan.com.cn/kuaizhan/page/ccapply/wx/20190802/h10376.html?scc=940000253&mt=94253001JXY')">
+                        <div class="r-txt" otitle="办卡有礼-平安情侣信用卡文字">
+                            <h3>平安情侣信用卡</h3>
+                            <p>
+                                <span>送情侣杯</span>
+                                &#124;
+                                <span>买一送一礼遇</span>
+                                &#124;
+                                <span>免年费</span>
+                            </p>
+                        </div>
+                    </a>
+                    <div class="bot-sq">
+                        <a class="bigger" onclick="hrefurl('https://b.pingan.com.cn/kuaizhan/page/ccapply/wx/20190802/h10376.html?scc=940000253&mt=94253001JXY')">
+                            <div class="bkyl-icon bkyl-icon02" otitle="办卡有礼-平安情侣信用卡小图标"></div>
+                            <span>送情侣杯，咖啡买1送1</span>
+                        </a>
+                        <a class="sq-btn" href="javascript:getUrl({ccp:'9',cardCatenaNo:'17', cf:'01a02'})" otype="button" otitle="办卡有礼-平安情侣信用卡申请">申请</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="jchd">精彩活动</div>
+    <a class="hd-pic" otitle="精彩活动-banner" otype="button" href="javascript:jchd();">
+        <img src="./images/100.png?v=2019.7.2.0" class="real-pic">
+    </a>
+</div>
+<!-- <script src="libs/swiper.min.js"></script> -->
+</body>
+<script type="text/javascript" src="js/index.js?v=2019.09.03333333333333" defer></script>
+</html>
